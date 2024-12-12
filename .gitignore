@@ -74,3 +74,4 @@ dist/
 # Windows specific files
 Thumbs.db
 desktop.ini
+data/*
