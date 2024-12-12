@@ -1,0 +1,12 @@
+notebook
+ipykernel
+pyspark 
+pandas
+numpy 
+matplotlib 
+scikit-learn
+networkx
+torch-geometric
+node2vec
+community
+mlflow
